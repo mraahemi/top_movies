@@ -1,2 +1,2 @@
 # top_movies
-Visualization of top movies seen in Canada using Microsoft Pwer BI
+Visualization of 2018 top seen movies in Ottawa using Microsoft Pwer BI.
